@@ -1,16 +1,21 @@
-### Hi there 👋
+## Introduction
 
-<!--
-**AUSTIN2526/AUSTIN2526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository. This page contains repositories related to various topics such as memory, artificial intelligence, blockchain, front-end design, and more. Feel free to reach out to me if you have any questions or would like to discuss anything.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Profile 👋
+- 🎓 KUAS (Master's Degree)
+- 🔭 Artificial Intelligence (CV & NLP)
+- 🔭 Full-Stack Engineer
+- 🔭 JavaScript, HTML, Python, React, C/C++
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <!-- Your GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=AUSTIN2526&show_icons=true" alt="GitHub Stats" />
+  </div>
+</div>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gengyanlei&theme=flat)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gengyanlei&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
