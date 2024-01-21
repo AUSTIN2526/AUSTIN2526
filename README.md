@@ -5,11 +5,16 @@
   - Master's Degree from KUAS
 
 - 🔭 Major:
-  - Artificial Intelligence (Computer Vision & Natural Language Processing)
-  - Full Stack Development
+  - Artificial Intelligence with a focus on:
+    - Natural Language Processing (NLP)
+    - Computer Vision (CV)
+  - Full Stack Development, specializing in:
+    - Blockchain
+    - Website Development
+    - Android & iOS Application Development
 
 - ❤ Programming Languages:
-  - Python (Primary Skill)
+  - Python (Main Skill)
   - JavaScript, HTML, CSS (Front-end)
   - C/C++ (Firmware and Memory Modifications)
 
@@ -17,6 +22,9 @@
   - Email: austin70915@gmail.com
   - Discord: [austin70915#3980](https://discordapp.com/users/austin#3980)
 ---
+# About Me
+I am an individual focused on the field of electrical and computer engineering. I enjoy sharing and exchanging technical articles online. Through this means, I can learn and grow together with experts from different fields. If you have any interest in my projects, feel free to discuss them with me.
+
 ## My Competition Achievements:
 ✦ 『**2023 AI CUP 教育部全國大專校院人工智慧競賽**』: 『**Silver Medal Award**』 out of 443 people.  
 ✦ 『**2023 iThome 鐵人賽**』: 『**Honorable Mention**』 in the AI & Data Category.  
