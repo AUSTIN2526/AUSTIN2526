@@ -1,26 +1,26 @@
 <h2 align="center">A full-stack engineer specializing in AI research</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=AUSTIN2526&show_icons=true" alt="AUSTIN2526's GitHub stats" align="right">
 
-- 🎓 Educational Qualifications:
-  - Master's Degree from KUAS
+* 🎓 Educational Qualifications:
+  * Master's Degree from KUAS
 
-- 🔭 Major:
-  - Artificial Intelligence with a focus on:
-    - Natural Language Processing (NLP)
-    - Computer Vision (CV)
-  - Full Stack Development, specializing in:
-    - Blockchain
-    - Website Development
-    - Android & iOS Application Development
+* 🔭 Major:
+  * Artificial Intelligence with a focus on:
+    * Natural Language Processing (NLP)
+    * Computer Vision (CV)
+  * Full Stack Development, specializing in:
+    * Blockchain
+    * Website Development
+    * Android & iOS Application Development
 
-- ❤ Programming Languages:
-  - Python (Main Skill)
-  - JavaScript, HTML, CSS (Front-end)
-  - C/C++ (Firmware and Memory Modifications)
+* ❤ Programming Languages:
+  * Python (Main Skill)
+  * JavaScript, HTML, CSS (Front-end)
+  * C/C++ (Firmware and Memory Modifications)
 
-- 📫 How to Reach Me:
-  - Email: austin70915@gmail.com
-  - Discord: [austin70915#3980](https://discordapp.com/users/austin#3980)
+* 📫 How to Reach Me:
+  * Email: austin70915@gmail.com
+  * Discord: [austin70915#3980](https://discordapp.com/users/austin#3980)
 ---
 # About Me
 I am an individual focused on the field of electrical and computer engineering. I enjoy sharing and exchanging technical articles online. Through this means, I can learn and grow together with experts from different fields. If you have any interest in my projects, feel free to discuss them with me.
