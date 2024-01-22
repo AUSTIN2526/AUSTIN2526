@@ -22,7 +22,7 @@
   * 『**2023 iThome 鐵人賽**』: 🥉『**Honorable Mention**』 in the AI & Data Category.  
   * 『**2022 iThome 鐵人賽**』: 🥉『**Honorable Mention**』 in the AI & Data Category.  
   * 『**2021 KUAS Project Competition**』: 🎊『**Best Popular Choice Award**』 for All student
-*  My Significant Publications
+*  📓My Significant Publications
     * Currently engaged in the preparation of an upcoming book in the field of NLP. (coming soon in 2024)  
     * Published the book 『**從零開始的 AI 程式設計養成之路**』 in 2023.
     
