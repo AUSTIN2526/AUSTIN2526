@@ -1,4 +1,4 @@
-<h2 align="center">A full-stack engineer specializing in AI research</h2>
+<h2 align="center">A Full-stack Engineer Specializing in AI Research</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=AUSTIN2526&show_icons=true" alt="AUSTIN2526's GitHub stats" align="right">
 
 * 🎓 Educational Qualifications:
