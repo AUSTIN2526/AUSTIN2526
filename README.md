@@ -4,7 +4,7 @@
 * 🎓 Educational Qualifications:
   * Currently pursuing a Ph.D. in Electrical Engineering from NKUST
   * Master's Degree in Electrical Engineering from KUAS
-  * 
+    
 * 🔭 Major:
   * Artificial Intelligence with a focus on:
     * Natural Language Processing (NLP)
