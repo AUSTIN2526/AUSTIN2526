@@ -2,8 +2,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AUSTIN2526&show_icons=true" alt="AUSTIN2526's GitHub stats" align="right">
 
 * 🎓 Educational Qualifications:
-  * Master's Degree from KUAS
-
+  * Currently pursuing a Ph.D. in Electrical Engineering from NKUST
+  * Master's Degree in Electrical Engineering from KUAS
+  * 
 * 🔭 Major:
   * Artificial Intelligence with a focus on:
     * Natural Language Processing (NLP)
