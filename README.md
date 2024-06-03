@@ -19,12 +19,12 @@
   * JavaScript, HTML, CSS (Front-end)
   * C/C++ (Firmware and Memory Modifications)
 * 🏆My Competition Achievements
-  *  『[**2023 AI CUP 教育部全國大專校院人工智慧競賽**](https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer)』: 🥈『**Silver Medal Award**』 out of 443 people.  
+  *  『[**Ministry of Education 2023 Artificial Intelligence CUP**](https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer)』: 🥈『**Silver Medal Award**』 out of 443 people.  
   * 『[**2023 iThome 鐵人賽**](https://github.com/AUSTIN2526/iThome2023-learn-NLP-in-30-days)』: 🥉『**Honorable Mention**』 in the AI & Data Category.  
   * 『[**2022 iThome 鐵人賽**](https://github.com/AUSTIN2526/learn-AI-in-30-days)』: 🥉『**Honorable Mention**』 in the AI & Data Category.  
   * 『[**2021 KUAS Project Competition**](https://drive.google.com/file/d/1OVx8kAPhA2qmwKehwz3nIYKn-xI6IpSq/view?usp=drive_link)』: 🎊『**Best Popular Choice Award**』 for All student
 *  📓My Significant Publications
-    * Currently engaged in the preparation of an upcoming book in the field of NLP. (coming soon in 2024)  
+    * Publishing the AI book 『**從零開始的大型語言模型設計之路**』(in progress).
     * Published the book 『[**從零開始的 AI 程式設計養成之路**](https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version)』 in 2023.
     
 * 📫 How to Reach Me:
