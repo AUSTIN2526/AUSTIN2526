@@ -21,6 +21,7 @@
   * C/C++ (Firmware and Memory Modifications)
 
 * 🏆 My Competition Achievements
+  * 『[**2024 iThome 鐵人賽**](https://github.com/AUSTIN2526/Learning-AI-in-30-Days-by-Using-Math-for-Better-Understanding)』: 🥉 『**Honorable Mention**』 in the AI & Data Category.  
   * 『[**Ministry of Education 2023 Artificial Intelligence Cup**](https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer)』: 🥈 『**Silver Medal Award**』 out of 443 participants.  
   * 『[**2023 iThome 鐵人賽**](https://github.com/AUSTIN2526/iThome2023-learn-NLP-in-30-days)』: 🥉 『**Honorable Mention**』 in the AI & Data Category.  
   * 『[**2022 iThome 鐵人賽**](https://github.com/AUSTIN2526/learn-AI-in-30-days)』: 🥉 『**Honorable Mention**』 in the AI & Data Category.  
