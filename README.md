@@ -34,6 +34,6 @@
 * 📫 How to Reach Me:
   * Email: austin70915@gmail.com
   * Discord: [austin70915#3980](https://discordapp.com/users/austin#3980)
-  * Instergrand: [austin70915](https://www.instagram.com/austin70915/)
+  * instagram: [austin70915](https://www.instagram.com/austin70915/)
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=AUSTIN2526&&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
