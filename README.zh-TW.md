@@ -24,36 +24,10 @@
 
 ### 🏆 亮點
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🥇</h3>
-      <b>冠軍</b><br>
-      <sub>AI&nbsp;CUP&nbsp;2025</sub><br><br>
-      <sub><a href="https://reurl.cc/eQADzM">公告</a>&nbsp;·&nbsp;<a href="https://github.com/AUSTIN2526/med-voice-SHI-detector">程式碼</a>&nbsp;·&nbsp;<a href="https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2">論文</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>🥈</h3>
-      <b>亞軍</b><br>
-      <sub>AI&nbsp;CUP&nbsp;2023</sub><br><br>
-      <sub><a href="https://reurl.cc/XxyEGE">公告</a>&nbsp;·&nbsp;<a href="https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer">程式碼</a>&nbsp;·&nbsp;<a href="https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5">論文</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📄</h3>
-      <b>2&nbsp;篇論文</b><br>
-      <sub>Springer&nbsp;CCIS</sub><br><br>
-      <sub><a href="https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2">2025</a>&nbsp;·&nbsp;<a href="https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5">2024</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>📚</h3>
-      <b>4&nbsp;本著作</b><br>
-      <sub>2023&nbsp;–&nbsp;2026</sub><br><br>
-      <sub><a href="#books">見下方</a></sub>
-    </td>
-  </tr>
-</table>
+- 🥇 **冠軍**・AI CUP 2025 — [公告](https://reurl.cc/eQADzM) · [程式碼](https://github.com/AUSTIN2526/med-voice-SHI-detector) · [論文](https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2)
+- 🥈 **亞軍**・AI CUP 2023 — [公告](https://reurl.cc/XxyEGE) · [程式碼](https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer) · [論文](https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5)
+- 📄 **2 篇第一作者論文**・Springer CCIS — [2025](https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2) · [2024](https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5)
+- 🏅 **iThome 鐵人賽**連續三屆佳作・2022 – 2024
 
 <details>
 <summary><b>完整得獎紀錄與論文</b></summary>
@@ -76,15 +50,12 @@
 
 </details>
 
-<a id="books"></a>
 ### 📚 著作
 
-| 年份 | 書名 |
-|:--:|---|
-| 2026 | 《LLM 開發實戰：從 10 行 Python 到 LoRA 微調》 🆕<br><sub>[購書](https://www.tenlong.com.tw/products/9786264144971)</sub> |
-| 2025 | 《AI 程式設計、深度學習與 LLM 入門到精通》<br><sub>[購書](https://www.tenlong.com.tw/products/9786264143035)</sub> |
-| 2024 | 《全面掌握生成式 AI 與 LLM 開發實務》<br><sub>[購書](https://www.tenlong.com.tw/products/9786263339682)&nbsp;·&nbsp;[程式碼](https://github.com/AUSTIN2526/learn-NLP-in-30-days-book-version)</sub> |
-| 2023 | 《ChatGPT X Keras X PyTorch 全方位應用實踐指南》<br><sub>[購書](https://www.tenlong.com.tw/products/9786263336025)&nbsp;·&nbsp;[程式碼](https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version)</sub> |
+- **2026** 《LLM 開發實戰：從 10 行 Python 到 LoRA 微調》🆕 — [購書](https://www.tenlong.com.tw/products/9786264144971)
+- **2025** 《AI 程式設計、深度學習與 LLM 入門到精通》 — [購書](https://www.tenlong.com.tw/products/9786264143035)
+- **2024** 《全面掌握生成式 AI 與 LLM 開發實務》 — [購書](https://www.tenlong.com.tw/products/9786263339682) · [程式碼](https://github.com/AUSTIN2526/learn-NLP-in-30-days-book-version)
+- **2023** 《ChatGPT X Keras X PyTorch 全方位應用實踐指南》 — [購書](https://www.tenlong.com.tw/products/9786263336025) · [程式碼](https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version)
 
 <sub>博碩文化出版</sub>
 
