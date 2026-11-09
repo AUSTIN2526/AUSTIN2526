@@ -24,36 +24,10 @@
 
 ### 🏆 Highlights
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🥇</h3>
-      <b>Champion</b><br>
-      <sub>AI&nbsp;CUP&nbsp;2025</sub><br><br>
-      <sub><a href="https://reurl.cc/eQADzM">Results</a>&nbsp;·&nbsp;<a href="https://github.com/AUSTIN2526/med-voice-SHI-detector">Code</a>&nbsp;·&nbsp;<a href="https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2">Paper</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>🥈</h3>
-      <b>Runner-up</b><br>
-      <sub>AI&nbsp;CUP&nbsp;2023</sub><br><br>
-      <sub><a href="https://reurl.cc/XxyEGE">Results</a>&nbsp;·&nbsp;<a href="https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer">Code</a>&nbsp;·&nbsp;<a href="https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5">Paper</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📄</h3>
-      <b>2&nbsp;Papers</b><br>
-      <sub>Springer&nbsp;CCIS</sub><br><br>
-      <sub><a href="https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2">2025</a>&nbsp;·&nbsp;<a href="https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5">2024</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>📚</h3>
-      <b>4&nbsp;Books</b><br>
-      <sub>2023&nbsp;–&nbsp;2026</sub><br><br>
-      <sub><a href="#books">See&nbsp;below</a></sub>
-    </td>
-  </tr>
-</table>
+- 🥇 **Champion** · AI CUP 2025 — [Results](https://reurl.cc/eQADzM) · [Code](https://github.com/AUSTIN2526/med-voice-SHI-detector) · [Paper](https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2)
+- 🥈 **Runner-up** · AI CUP 2023 — [Results](https://reurl.cc/XxyEGE) · [Code](https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer) · [Paper](https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5)
+- 📄 **2 first-author papers** · Springer CCIS — [2025](https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2) · [2024](https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5)
+- 🏅 **iThome Ironman** Honorable Mention ×3 · 2022 – 2024
 
 <details>
 <summary><b>All awards & publications</b></summary>
@@ -76,15 +50,12 @@
 
 </details>
 
-<a id="books"></a>
 ### 📚 Books
 
-| Year | Title |
-|:--:|---|
-| 2026 | 《LLM 開發實戰：從 10 行 Python 到 LoRA 微調》 🆕<br><sub>[Book](https://www.tenlong.com.tw/products/9786264144971)</sub> |
-| 2025 | 《AI 程式設計、深度學習與 LLM 入門到精通》<br><sub>[Book](https://www.tenlong.com.tw/products/9786264143035)</sub> |
-| 2024 | 《全面掌握生成式 AI 與 LLM 開發實務》<br><sub>[Book](https://www.tenlong.com.tw/products/9786263339682)&nbsp;·&nbsp;[Code](https://github.com/AUSTIN2526/learn-NLP-in-30-days-book-version)</sub> |
-| 2023 | 《ChatGPT X Keras X PyTorch 全方位應用實踐指南》<br><sub>[Book](https://www.tenlong.com.tw/products/9786263336025)&nbsp;·&nbsp;[Code](https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version)</sub> |
+- **2026** 《LLM 開發實戰：從 10 行 Python 到 LoRA 微調》🆕 — [Book](https://www.tenlong.com.tw/products/9786264144971)
+- **2025** 《AI 程式設計、深度學習與 LLM 入門到精通》 — [Book](https://www.tenlong.com.tw/products/9786264143035)
+- **2024** 《全面掌握生成式 AI 與 LLM 開發實務》 — [Book](https://www.tenlong.com.tw/products/9786263339682) · [Code](https://github.com/AUSTIN2526/learn-NLP-in-30-days-book-version)
+- **2023** 《ChatGPT X Keras X PyTorch 全方位應用實踐指南》 — [Book](https://www.tenlong.com.tw/products/9786263336025) · [Code](https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version)
 
 <sub>Published by 博碩文化 (DrMaster)</sub>
 
