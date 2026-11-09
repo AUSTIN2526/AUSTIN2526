@@ -46,14 +46,6 @@
 - **Temporal Subword De-Identification of Medical Speech for Privacy Protection Leveraging ASR and LLMs**, IW-DMRN 2025, *Springer CCIS 2908* · [Paper](https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2)
 - **Privacy Protection and Standardization of Electronic Medical Records Using Large Language Model**, IW-DMRN 2024, *Springer CCIS 2148* · [Paper](https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5)
 
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AUSTIN2526/med-voice-SHI-detector"><img src="./profile/pin-med-voice-SHI-detector.svg" alt="med-voice-SHI-detector" width="49%"></a>
-  <a href="https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer"><img src="./profile/pin-DE-ID-AI-CUP-Trainer.svg" alt="DE-ID-AI-CUP-Trainer" width="49%"></a>
-  <a href="https://github.com/AUSTIN2526/learn-NLP-in-30-days-book-version"><img src="./profile/pin-learn-NLP-in-30-days-book-version.svg" alt="learn-NLP-in-30-days-book-version" width="49%"></a>
-  <a href="https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version"><img src="./profile/pin-learn-AI-in-30-days-book-version.svg" alt="learn-AI-in-30-days-book-version" width="49%"></a>
-</p>
 
 ### 📚 Books <sub>(博碩文化)</sub>
 
