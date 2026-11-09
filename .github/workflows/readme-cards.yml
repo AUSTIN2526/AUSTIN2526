@@ -8,6 +8,9 @@ on:
     paths:
       - ".github/workflows/readme-cards.yml"
 
+# README_STATS_TOKEN：fine-grained PAT（Public repositories read-only），存在 repo 的 Actions secrets
+# 不能用內建 GITHUB_TOKEN：它只看得到這個 profile repo，讀不到你其他 repo，pin 卡會顯示 Repository Not found
+
 permissions:
   contents: write
 
@@ -23,7 +26,8 @@ jobs:
           card: stats
           options: username=AUSTIN2526&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - med-voice-SHI-detector
         uses: readme-tools/github-readme-stats-action@v1
@@ -31,7 +35,8 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=med-voice-SHI-detector&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-med-voice-SHI-detector.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - DE-ID-AI-CUP-Trainer
         uses: readme-tools/github-readme-stats-action@v1
@@ -39,7 +44,8 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=DE-ID-AI-CUP-Trainer&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-DE-ID-AI-CUP-Trainer.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - learn-NLP-in-30-days-book-version
         uses: readme-tools/github-readme-stats-action@v1
@@ -47,7 +53,8 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=learn-NLP-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-learn-NLP-in-30-days-book-version.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - learn-AI-in-30-days-book-version
         uses: readme-tools/github-readme-stats-action@v1
@@ -55,7 +62,8 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=learn-AI-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-learn-AI-in-30-days-book-version.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Commit cards
         run: |
