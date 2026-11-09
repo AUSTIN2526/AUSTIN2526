@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=AUSTIN2526&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="AUSTIN2526's GitHub stats" align="right" width="400">
+<img src="./profile/stats.svg" alt="AUSTIN2526's GitHub stats" align="right" width="400">
 
 ### 🙋 關於我
 
@@ -35,6 +35,7 @@
 |:--:|:--:|---|---|
 | 2025 | 🥇 **冠軍** | **AI CUP 2025** 醫病語音敏感個人資料辨識競賽（共 269 隊） | [得獎公告](https://reurl.cc/eQADzM) · [程式碼](https://github.com/AUSTIN2526/med-voice-SHI-detector) · [論文](https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2) |
 | 2023 | 🥈 **亞軍** | **AI CUP 2023** 隱私保護與醫學數據標準化競賽 | [得獎公告](https://reurl.cc/XxyEGE) · [程式碼](https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer) · [論文](https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5) |
+| 2023 | 🚀 **16 強** | **Backdrop Build** 國際線上黑客松 | [AI Security Scanner](https://backdropbuild.com/builds/ai-security-scanner) |
 | 2024 | 🏅 **佳作** | **第 16 屆 iThome 鐵人賽** AI & Data 組《從零開始學 AI：數學基礎與程式碼撰寫全攻略》 | [得獎公告](https://ithelp.ithome.com.tw/2024ironman/reward) |
 | 2023 | 🏅 **佳作** | **第 15 屆 iThome 鐵人賽** AI & Data 組《30 天內成為 NLP 大師：掌握關鍵工具和技巧》 | [得獎公告](https://ithelp.ithome.com.tw/2023ironman/reward) |
 | 2022 | 🏅 **佳作** | **第 14 屆 iThome 鐵人賽** AI & Data 組《新手也能懂得 AI－深入淺出的 AI 課程》 | [得獎公告](https://ithelp.ithome.com.tw/2022ironman/reward) |
@@ -48,10 +49,10 @@
 ### 📌 精選專案
 
 <p align="center">
-  <a href="https://github.com/AUSTIN2526/med-voice-SHI-detector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AUSTIN2526&repo=med-voice-SHI-detector&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="med-voice-SHI-detector" width="49%"></a>
-  <a href="https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AUSTIN2526&repo=DE-ID-AI-CUP-Trainer&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="DE-ID-AI-CUP-Trainer" width="49%"></a>
-  <a href="https://github.com/AUSTIN2526/learn-NLP-in-30-days-book-version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AUSTIN2526&repo=learn-NLP-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="learn-NLP-in-30-days-book-version" width="49%"></a>
-  <a href="https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AUSTIN2526&repo=learn-AI-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="learn-AI-in-30-days-book-version" width="49%"></a>
+  <a href="https://github.com/AUSTIN2526/med-voice-SHI-detector"><img src="./profile/pin-med-voice-SHI-detector.svg" alt="med-voice-SHI-detector" width="49%"></a>
+  <a href="https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer"><img src="./profile/pin-DE-ID-AI-CUP-Trainer.svg" alt="DE-ID-AI-CUP-Trainer" width="49%"></a>
+  <a href="https://github.com/AUSTIN2526/learn-NLP-in-30-days-book-version"><img src="./profile/pin-learn-NLP-in-30-days-book-version.svg" alt="learn-NLP-in-30-days-book-version" width="49%"></a>
+  <a href="https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version"><img src="./profile/pin-learn-AI-in-30-days-book-version.svg" alt="learn-AI-in-30-days-book-version" width="49%"></a>
 </p>
 
 ### 📚 著作 <sub>（博碩文化）</sub>
@@ -78,9 +79,3 @@
 </p>
 
 `Transformers` `LoRA` `RAG` `Multi-Agent` `Whisper ASR` `FAISS`
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AUSTIN2526&column=-1&no-frame=true&no-bg=true" alt="trophy"></a>
-</p>
