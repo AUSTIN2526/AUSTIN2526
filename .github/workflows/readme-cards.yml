@@ -8,8 +8,7 @@ on:
     paths:
       - ".github/workflows/readme-cards.yml"
 
-# README_STATS_TOKEN：fine-grained PAT（Public repositories read-only），存在 repo 的 Actions secrets
-# 不能用內建 GITHUB_TOKEN：它只看得到這個 profile repo，讀不到你其他 repo，pin 卡會顯示 Repository Not found
+# README_STATS_TOKEN：Classic PAT（不需勾任何權限），存在 repo 的 Actions secrets
 
 permissions:
   contents: write
@@ -25,57 +24,44 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - uses: denoland/setup-deno@v2
         with:
-          card: stats
-          options: username=AUSTIN2526&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7
-          path: profile/stats.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
+          deno-version: v1.x
 
-      - name: Pin - med-voice-SHI-detector
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=AUSTIN2526&repo=med-voice-SHI-detector&hide_border=true&title_color=2F81F7&icon_color=2F81F7
-          path: profile/pin-med-voice-SHI-detector.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
+      - name: Trophy (light + dark)
+        env:
+          GITHUB_TOKEN1: ${{ secrets.README_STATS_TOKEN }}
+        run: |
+          git clone -q --depth 1 --branch v1 https://github.com/ttiimmothy/github-readme-trophy-stats.git /tmp/trophy
+          cat > /tmp/trophy/gen.ts <<'TS'
+          import { GithubApiService } from "./src/Services/GithubApiService.ts";
+          import { Card } from "./src/card.ts";
+          import { COLORS } from "./src/theme.ts";
 
-      - name: Pin - DE-ID-AI-CUP-Trainer
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=AUSTIN2526&repo=DE-ID-AI-CUP-Trainer&hide_border=true&title_color=2F81F7&icon_color=2F81F7
-          path: profile/pin-DE-ID-AI-CUP-Trainer.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
-
-      - name: Pin - learn-NLP-in-30-days-book-version
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=AUSTIN2526&repo=learn-NLP-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7
-          path: profile/pin-learn-NLP-in-30-days-book-version.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
-
-      - name: Pin - learn-AI-in-30-days-book-version
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=AUSTIN2526&repo=learn-AI-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7
-          path: profile/pin-learn-AI-in-30-days-book-version.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
-
-      - name: Trophy
-        uses: ttiimmothy/github-readme-trophy-stats@v1
-        with:
-          username: AUSTIN2526
-          output_path: profile/trophy.svg
-          token: ${{ secrets.README_STATS_TOKEN }}
+          const out = Deno.args[0];
+          const info: any = await new GithubApiService().requestUserInfo("AUSTIN2526");
+          if (!(info && info.totalCommits !== undefined)) {
+            console.error("Failed to fetch user info", info);
+            Deno.exit(2);
+          }
+          // 只留有意義的獎盃
+          const titles = ["Stars", "Followers", "Repositories", "Commits", "Experience"];
+          const themes: Record<string, string> = { light: "default", dark: "darkhub" };
+          await Deno.mkdir(`${out}/profile`, { recursive: true });
+          for (const [mode, theme] of Object.entries(themes)) {
+            // titles, ranks, maxColumn, maxRow, panelSize, marginW, marginH, noBackground, noFrame
+            const card = new Card(titles, [], -1, 1, 110, 12, 10, true, true);
+            await Deno.writeTextFile(`${out}/profile/trophy-${mode}.svg`, card.render(info, (COLORS as any)[theme]));
+            console.log(`Wrote profile/trophy-${mode}.svg`);
+          }
+          TS
+          deno run -A /tmp/trophy/gen.ts "$GITHUB_WORKSPACE"
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -q --ignore-unmatch profile/stats.svg profile/trophy.svg profile/pin-*.svg
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git pull --rebase -X theirs origin "${GITHUB_REF_NAME}"
