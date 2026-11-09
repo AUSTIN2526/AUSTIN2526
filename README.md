@@ -76,9 +76,10 @@
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" width="420">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" alt="trophy"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/trophy-dark.svg">
+      <img src="./profile/trophy-light.svg" alt="GitHub trophies">
+    </picture>
+  </a>
 </p>
