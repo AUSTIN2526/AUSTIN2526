@@ -26,7 +26,6 @@ jobs:
           card: stats
           options: username=AUSTIN2526&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/stats.svg
-          fail_on_error: true
           token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - med-voice-SHI-detector
@@ -35,7 +34,6 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=med-voice-SHI-detector&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-med-voice-SHI-detector.svg
-          fail_on_error: true
           token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - DE-ID-AI-CUP-Trainer
@@ -44,7 +42,6 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=DE-ID-AI-CUP-Trainer&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-DE-ID-AI-CUP-Trainer.svg
-          fail_on_error: true
           token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - learn-NLP-in-30-days-book-version
@@ -53,7 +50,6 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=learn-NLP-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-learn-NLP-in-30-days-book-version.svg
-          fail_on_error: true
           token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Pin - learn-AI-in-30-days-book-version
@@ -62,7 +58,13 @@ jobs:
           card: pin
           options: username=AUSTIN2526&repo=learn-AI-in-30-days-book-version&hide_border=true&title_color=2F81F7&icon_color=2F81F7
           path: profile/pin-learn-AI-in-30-days-book-version.svg
-          fail_on_error: true
+          token: ${{ secrets.README_STATS_TOKEN }}
+
+      - name: Trophy
+        uses: ttiimmothy/github-readme-trophy-stats@v1
+        with:
+          username: AUSTIN2526
+          output_path: profile/trophy.svg
           token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Commit cards
