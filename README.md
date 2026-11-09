@@ -35,7 +35,6 @@
 |:--:|:--:|---|---|
 | 2025 | 🥇 **Champion** | **AI CUP 2025**: Medical Speech Sensitive Personal Information Recognition (269 teams) | [Results](https://reurl.cc/eQADzM) · [Code](https://github.com/AUSTIN2526/med-voice-SHI-detector) · [Paper](https://link.springer.com/chapter/10.1007/978-981-92-2282-7_2) |
 | 2023 | 🥈 **Runner-up** | **AI CUP 2023**: Privacy Protection & Medical Data Standardization | [Results](https://reurl.cc/XxyEGE) · [Code](https://github.com/AUSTIN2526/DE-ID-AI-CUP-Trainer) · [Paper](https://link.springer.com/chapter/10.1007/978-981-97-7966-6_5) |
-| 2023 | 🚀 **Top 16** | **Backdrop Build** international online hackathon | [AI Security Scanner](https://backdropbuild.com/builds/ai-security-scanner) |
 | 2024 | 🏅 **Honorable Mention** | **16th iThome Ironman**, AI & Data:《從零開始學 AI：數學基礎與程式碼撰寫全攻略》 | [Results](https://ithelp.ithome.com.tw/2024ironman/reward) |
 | 2023 | 🏅 **Honorable Mention** | **15th iThome Ironman**, AI & Data:《30 天內成為 NLP 大師：掌握關鍵工具和技巧》 | [Results](https://ithelp.ithome.com.tw/2023ironman/reward) |
 | 2022 | 🏅 **Honorable Mention** | **14th iThome Ironman**, AI & Data:《新手也能懂得 AI－深入淺出的 AI 課程》 | [Results](https://ithelp.ithome.com.tw/2022ironman/reward) |
