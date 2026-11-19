@@ -20,7 +20,7 @@
 - 🤖 **LLM agents** that plan, simulate and pass safety checks before acting
 - 🏥 **Clinical NLP** & medical de-identification (speech + EHR)
 - 💬 **RAG assistant** in daily production use
-- 🎓 M.S. Electrical Engineering, NKUST
+- 🎓 Ph.D. student, Graduate Institute of Networking and Multimedia, National Taiwan University (NTU)
 
 ### 🏆 Highlights
 
